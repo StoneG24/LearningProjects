@@ -1,7 +1,7 @@
 # Run
 
 ```bash
-python3 {program name}.py < rsa-2.txt
+python rsa.py < rsa-2.txt
 ```
 
 # Correct Ouput
